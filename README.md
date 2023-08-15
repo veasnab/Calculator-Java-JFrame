@@ -1,4 +1,4 @@
-# Calculator-Java-JFrame
+# Calculator Java JFrame
 The Calculator-Java-JFrame project is a user-friendly calculator application developed in Java using JFrame. It allows users to perform both integer and floating-point computations with ease. 
 The application provides a visually appealing interface and supports basic arithmetic operations. 
 Simply input your numbers and operators to get accurate results. Give it a try and simplify your calculations
